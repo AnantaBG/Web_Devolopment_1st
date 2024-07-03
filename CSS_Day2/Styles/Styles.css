@@ -1,0 +1,37 @@
+h3{
+font-size: 30px;
+text-decoration: overline;
+font-family: 'Courier New', Courier, monospace;
+}
+.second{
+    /* display: none; To entirely erase */
+    /* visibility: hidden;To hide only */
+}
+.blog{
+    margin: 40px;
+    border: 16px solid rebeccapurple;
+    box-shadow: 20px 20px 100px rgb(73, 11, 11);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.s{
+font-size: larger;
+border: 5px solid blueviolet;
+}
+.h{
+    height: 200px;
+    font-size: larger;
+    text-shadow: 100px 100px 100px rgb(38, 255, 0);
+    color: rgb(255, 0, 119);
+    /* background-image: url(1.jpg); */
+    /* background-repeat: no-repeat; */
+    /* background-repeat: repeat-x; */
+    /* background-repeat: repeat-y; */
+    /* background-size: cover; */
+    /* background-size: contain; */
+    background-image: url(../../Web_day1_HTML/1.jpg);
+}
+.c{
+    border: 2px solid red;
+    height: 30px;
+    display: inline-block;
+}

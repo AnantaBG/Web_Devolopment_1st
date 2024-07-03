@@ -1,0 +1,5 @@
+{
+    "editor.wordWrap": "on",
+    "workbench.editor.wrapTabs": true,
+    "notebook.output.wordWrap": true
+}
